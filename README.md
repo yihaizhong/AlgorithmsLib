@@ -1,2 +1,2 @@
 # AlgrithmsLib
-some basic code of algrithms
+some basic code of algorithms
